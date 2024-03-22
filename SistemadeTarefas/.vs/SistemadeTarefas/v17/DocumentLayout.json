@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\data\\map\\autormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\data\\map\\autormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\controllers\\avaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\avaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\controllers\\editoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\editoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\data\\map\\reservamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\data\\map\\reservamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\data\\sistematarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\data\\sistematarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\sistemadetarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\sistemadetarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\sistemadetarefas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\sistemadetarefas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|c:\\users\\senai3em\\downloads\\sistema de tarefas api - exemplo token\\sistema de tarefas api - exemplo\\sistemadetarefas\\sistemadetarefas\\migrations\\20240322114627_lastdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DB4626-77FE-4E6A-8F35-26FECF0C7314}|SistemadeTarefas\\SistemadeTarefas.csproj|solutionrelative:sistemadetarefas\\migrations\\20240322114627_lastdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:49:23.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:48:26.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:33:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Program.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAawFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:38:15.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwCYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:52:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\appsettings.json",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\appsettings.json",
+              "RelativeToolTip": "SistemadeTarefas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T10:38:18.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Models\\AutorModel.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Models\\AutorModel.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Models\\AutorModel.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Models\\AutorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:59:13.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:10:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:49:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorMap.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Data\\Map\\AutorMap.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Data\\Map\\AutorMap.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Data\\Map\\AutorMap.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Data\\Map\\AutorMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:59:08.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditoraController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\EditoraController.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Controllers\\EditoraController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\EditoraController.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Controllers\\EditoraController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:51:43.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AvaliacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\AvaliacaoController.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Controllers\\AvaliacaoController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Controllers\\AvaliacaoController.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Controllers\\AvaliacaoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:52:11.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240322114627_LastDB.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Migrations\\20240322114627_LastDB.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Migrations\\20240322114627_LastDB.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Migrations\\20240322114627_LastDB.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Migrations\\20240322114627_LastDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:46:27.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservaMap.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Data\\Map\\ReservaMap.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Data\\Map\\ReservaMap.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Data\\Map\\ReservaMap.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Data\\Map\\ReservaMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:45:47.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SistemadeTarefas.csproj",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\SistemadeTarefas.csproj",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\SistemadeTarefas.csproj",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\SistemadeTarefas.csproj",
+              "RelativeToolTip": "SistemadeTarefas\\SistemadeTarefas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T11:30:08.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SistemaTarefasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Data\\SistemaTarefasDbContext.cs",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\Data\\SistemaTarefasDbContext.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\Data\\SistemaTarefasDbContext.cs",
+              "RelativeToolTip": "SistemadeTarefas\\Data\\SistemaTarefasDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:07:54.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SistemadeTarefas.http",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\SistemadeTarefas.http",
+              "RelativeDocumentMoniker": "SistemadeTarefas\\SistemadeTarefas.http",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Downloads\\Sistema de Tarefas API - exemplo token\\Sistema de Tarefas API - exemplo\\SistemadeTarefas\\SistemadeTarefas\\SistemadeTarefas.http",
+              "RelativeToolTip": "SistemadeTarefas\\SistemadeTarefas.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-22T10:38:13.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
